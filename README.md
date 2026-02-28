@@ -10,7 +10,7 @@ Ce projet présente mes compétences techniques, mes expériences professionnell
 - JavaScript (Vanilla JS)
 
 ## 🌐 Démo en ligne
-Lien du site : https://github.com/kenanawail/CV_Num-rique.git
+Lien du site : [https://github.com/kenanawail/CV_Num-rique.git](https://kenanawail.github.io/CV_Num-rique/)
 
 ## 📬 Contact
 N'hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle.
