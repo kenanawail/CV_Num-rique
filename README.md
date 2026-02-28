@@ -7,7 +7,7 @@ Ce projet présente mes compétences techniques, mes expériences professionnell
 ## 🚀 Technologies utilisées
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🌐 Démo en ligne
 Lien du site : [https://github.com/kenanawail/CV_Num-rique.git](https://kenanawail.github.io/CV_Num-rique/)
